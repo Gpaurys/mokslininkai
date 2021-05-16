@@ -1,0 +1,109 @@
+body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    background: #f3f4ed;
+}
+
+img {
+  width: 137px;
+  height: 200px;
+  float: left;
+  margin: 7px 20px 7px 0;
+  margin-left: 0px;
+}
+
+h1 {
+  color: #0974b3;
+  font-size: 1.8em;
+  margin: -15px 0 0;
+  padding: 10px 0 0;
+}
+
+div {
+  color: #666;
+}
+
+ins {
+  color: #ce97b0;
+}
+
+.name {
+  padding: 10px 0 0 0;
+}
+
+.text  {
+  width: 600px;
+  float: right;
+  /* padding-bottom: : 10%; */
+}
+
+.text2 {
+  overflow: auto;
+}
+
+.age {
+  margin: -10px 10px 5px 0;
+
+}
+
+.box {
+  width: 820px;
+  height: 345px;
+  border: 5px solid lightgrey;
+  border-top-style: solid;
+  border-top-color: #0974b3;
+  border-bottom: 1px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  background: white;
+  padding: 20px;
+
+}
+
+.box2 {
+  width: 370px;
+  height: 430px;
+  border: 5px;
+  border-top-style: solid;
+  border-top-color: #0974b3;
+  border-bottom: 1px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  background: white;
+  margin: 25px 0;
+  padding: 20px;
+}
+
+.box3 {
+  width: 377px;
+  height: 430px;
+  border: 5px solid lightgrey;
+  border-top-style: solid;
+  border-top-color: #0974b3;
+  border-bottom: 1px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  background: white;
+  margin: 0 40px;
+  padding: 20px;
+}
+
+.block {
+  width: 800px;
+}
+
+.block2 {
+  width: 400px;
+  display: inline-block;
+}
+
+.block3 {
+  width: 400px;
+  display: inline-block;
+}
+
+.nicola {
+  width: 137px;
+  height: 180px;
+}
